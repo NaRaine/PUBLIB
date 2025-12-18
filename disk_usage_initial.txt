@@ -1,0 +1,12 @@
+4.0K	/home/raine/.claude/CLAUDE.md
+809M	/home/raine/.claude/debug
+3.4G	/home/raine/.claude/file-history
+1.2M	/home/raine/.claude/history.jsonl
+4.2G	/home/raine/.claude/projects
+316K	/home/raine/.claude/session-env
+4.0K	/home/raine/.claude/settings.json
+4.0K	/home/raine/.claude/settings.local.json
+412K	/home/raine/.claude/shell-snapshots
+52K	/home/raine/.claude/skills
+44K	/home/raine/.claude/statsig
+1.4M	/home/raine/.claude/todos

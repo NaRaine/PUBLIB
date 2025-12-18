@@ -1,0 +1,24 @@
+=== SENSITIVE WORK AREAS - IP CLASSIFICATION ===
+
+1. AUTONOMOUS AI PLATFORM DEVELOPMENT
+   - Trinity AI coordination system (Python, 73 source files)
+   - Harmony Thermodynamic Platform (Rust, 22MB compiled binaries)
+   - RaineWare Orchestrator (Rust, autonomous task execution)
+   - Maya integration service (compiled ELF binary)
+   - System IQ: 89,745 (4,053% growth architecture)
+
+2. COMPREHENSIVE SYSTEM DOCUMENTATION
+   - 2,945 markdown documentation files
+   - Complete system architecture specifications
+   - 442,087 files organized in SYSTEM_ROOT
+
+3. ANALYSIS & RESEARCH REPORTS
+   - 10+ comprehensive analysis reports
+   - Financial market intelligence system design
+   - Security and threat analysis
+
+4. PROPRIETARY ALGORITHMS & PATTERNS
+   - Thermodynamic coordination algorithms
+   - Agent spawning and delegation logic
+   - BrainBox knowledge graph integration
+   - Multi-agent IQ summing methodology

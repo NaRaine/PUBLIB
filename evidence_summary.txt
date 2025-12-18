@@ -1,0 +1,17 @@
+=== EVIDENCE SUMMARY ===
+Monitoring Period: 2025-12-07 11:20:45 to 11:29:48 (9 minutes, 3 seconds)
+Total Samples: 102 (one every 5 seconds)
+
+Debug File Growth:
+  Start:  10,780,858 bytes (10.3 MB)
+  End:    12,444,234 bytes (11.9 MB)
+  Growth:  1,663,376 bytes (1.6 MB)
+  Rate:    3,062 bytes/second
+
+Memory Growth:
+  Start:  7,941 MB RSS
+  End:    9,324 MB RSS
+  Growth: 1,383 MB (17.4% increase)
+
+CPU Usage: 43-48% continuous (average 46%)
+Network Connections: 0 captured (lsof failed - process protected)

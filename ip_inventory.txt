@@ -1,0 +1,42 @@
+=== PLATFORM DEVELOPMENT INVENTORY ===
+
+Trinity Platform:
+73
+
+Harmony Thermodynamic Platform:
+total 22M
+drwxrwsr-x 30 raine grpDrives 4.0K Dec  6 01:52 build
+-rwxrwxr-x  2 raine grpDrives 3.3M Dec  6 01:55 capabilities_daemon
+-rw-rw-r--  1 raine grpDrives  826 Dec  6 03:51 capabilities_daemon.d
+-rwxrwxr-x  2 raine grpDrives 3.2M Dec  6 03:49 delegation_bridge
+-rw-rw-r--  1 raine grpDrives  822 Dec  6 03:51 delegation_bridge.d
+drwxrwsr-x  2 raine grpDrives  20K Dec  6 14:46 deps
+drwxrwsr-x  2 raine grpDrives 4.0K Dec  6 01:32 examples
+-rwxrwxr-x  2 raine grpDrives 3.3M Dec  6 03:54 harmony_thermodynamic
+-rw-rw-r--  1 raine grpDrives  809 Dec  6 03:54 harmony_thermodynamic.d
+drwxrwsr-x 19 raine grpDrives 4.0K Dec  6 03:51 incremental
+-rwxrwxr-x  2 raine grpDrives 2.2M Dec  6 03:56 init_brainbox
+-rw-rw-r--  1 raine grpDrives  814 Dec  6 03:56 init_brainbox.d
+-rwxrwxr-x  2 raine grpDrives 2.2M Dec  6 03:49 init_db
+-rw-rw-r--  1 raine grpDrives  802 Dec  6 03:51 init_db.d
+-rw-rw-r--  1 raine grpDrives  751 Dec  6 03:51 libharmony_thermodynamic.d
+-rw-rw-r--  1 raine grpDrives 1.4M Dec  6 01:55 libharmony_thermodynamic.rlib
+-rwxrwxr-x  2 raine grpDrives 1.4M Dec  6 01:55 maya_bridge
+-rw-rw-r--  1 raine grpDrives  810 Dec  6 03:51 maya_bridge.d
+-rwxrwxr-x  2 raine grpDrives 1.4M Dec  6 01:55 raineware_bridge
+-rw-rw-r--  1 raine grpDrives  820 Dec  6 03:51 raineware_bridge.d
+-rwxrwxr-x  2 raine grpDrives 3.2M Dec  6 14:46 trinity_bridge
+-rw-rw-r--  1 raine grpDrives  816 Dec  6 14:46 trinity_bridge.d
+
+RaineWare Orchestrator:
+total 3.7M
+drwxrwsr-x 44 raine grpDrives 4.0K Dec  3 00:10 build
+drwxrwsr-x  2 raine grpDrives  36K Dec  7 02:33 deps
+drwxrwsr-x  2 raine grpDrives 4.0K Dec  3 00:10 examples
+drwxrwsr-x  3 raine grpDrives 4.0K Dec  3 00:11 incremental
+
+System Documentation:
+2945
+
+Analysis Reports:
+10

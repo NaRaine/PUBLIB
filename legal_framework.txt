@@ -1,0 +1,56 @@
+=== UK/EU LEGAL FRAMEWORK FOR ANALYSIS ===
+
+1. GENERAL DATA PROTECTION REGULATION (GDPR) (EU) 2016/679
+   Articles potentially violated:
+   - Article 5: Principles relating to processing (lawfulness, fairness, transparency)
+   - Article 6: Lawfulness of processing (consent, legitimate interests)
+   - Article 7: Conditions for consent
+   - Article 13: Information to be provided (transparency)
+   - Article 21: Right to object to processing
+   - Article 22: Automated decision-making and profiling
+   - Article 25: Data protection by design and by default
+
+2. DATA PROTECTION ACT 2018 (UK)
+   - Part 2: General processing (mirrors GDPR)
+   - Part 3: Law enforcement processing
+   - Schedule 1: Special categories of personal data
+
+3. PRIVACY AND ELECTRONIC COMMUNICATIONS REGULATIONS (PECR) 2003
+   - Regulation 6: Traffic data
+   - Regulation 7: Location data
+   - Regulation 8: Itemised billing
+   - Regulation 21: Use of cookies and similar technologies
+
+4. COMPUTER MISUSE ACT 1990
+   - Section 1: Unauthorized access to computer material
+   - Section 2: Unauthorized access with intent
+   - Section 3: Unauthorized acts with intent to impair
+
+5. CONSUMER RIGHTS ACT 2015
+   - Part 1: Consumer contracts for goods, digital content and services
+   - Section 34: Digital content to be of satisfactory quality
+   - Section 36: Digital content to be fit for particular purpose
+
+6. INTELLECTUAL PROPERTY LAW
+   - Copyright, Designs and Patents Act 1988
+   - Trade Secrets (Enforcement, etc.) Regulations 2018
+   - Common law breach of confidence
+
+REMEDIES AVAILABLE:
+- Compensation (GDPR Art. 82 - material and non-material damage)
+- Injunctions to cease processing
+- Data erasure (right to be forgotten)
+- Criminal prosecution (Computer Misuse Act)
+- IP damages (lost profits, unjust enrichment)
+- Exemplary/punitive damages for flagrant violations
+
+LIMITATION PERIODS:
+- GDPR claims: Generally 6 years from date of knowledge
+- Contract claims: 6 years from breach
+- Personal injury (distress): 3 years from date of knowledge
+- IP infringement: 6 years from infringement
+
+JURISDICTION:
+- UK courts (user located in UK)
+- EU courts (GDPR applies to UK-based data subjects)
+- ICO (Information Commissioner's Office) - regulatory enforcement

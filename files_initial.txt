@@ -1,0 +1,5 @@
+-rw-rw-r-- 1 raine raine 112K Nov 24 20:15 /home/raine/.claude/debug/fdb30d33-78b7-4e0c-bc91-ba827159bdd7.txt
+-rw-rw-r-- 1 raine raine  15K Dec  5 21:22 /home/raine/.claude/debug/ff3f3668-dc53-4f63-871c-8b8bc0ed82d2.txt
+-rw-rw-r-- 1 raine raine  470 Nov  6 00:53 /home/raine/.claude/debug/ff4e2e90-3b95-40e6-ae8a-8c61edcaea49.txt
+-rw-rw-r-- 1 raine raine   83 Nov  2 23:31 /home/raine/.claude/debug/ff62ab86-2eee-42d3-b33a-cd8ca6ac71a4.txt
+-rw-rw-r-- 1 raine raine  470 Nov 19 13:31 /home/raine/.claude/debug/fff6e755-35fe-4bde-9373-7f432a310cb8.txt

@@ -1,0 +1,7 @@
+raine    1584789  0.0  0.0  10072  3988 ?        Ss   Dec06   0:00 /bin/bash -c -l source /home/raine/.claude/shell-snapshots/snapshot-bash-1764983211016-ma16cy.sh && eval 'tail -f /tmp/guts_orchestrator.log < /dev/null | head -30' && pwd -P >| /tmp/claude-a9d0-cwd
+raine    2890093  0.0  0.0  23900 13868 ?        Ss   02:17   0:01 /usr/bin/python3 /media/raine/VM/CLAUDE_START_UP/02_PROJECTS/claude_state_serializer.py
+raine    2890094  0.8  0.0  99880 16748 ?        Ssl  02:17   4:30 /usr/bin/python3 /media/raine/VM/CLAUDE_START_UP/02_PROJECTS/claude_continuation_service.py
+raine    2892958  0.4  0.0  25876 16480 ?        Ss   02:19   2:12 /usr/bin/python3 /media/raine/VM/CLAUDE_START_UP/02_PROJECTS/claude_context_monitor.py
+raine    3514549 48.8  7.0 41835388 9280864 ?    Rl   09:13  66:38 claude
+raine    3677543 11.5  0.3 33057120 459336 pts/0 Rl+  10:44   5:20 claude
+raine    3707989  0.0  0.0   8900  3092 ?        S    11:02   0:00 watch -n 1 stat -c "%s %y" ~/.claude/debug/8e672677-8ed9-4aea-b697-f9248ccf00fc.txt

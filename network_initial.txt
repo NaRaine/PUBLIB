@@ -1,0 +1,54 @@
+=== INITIAL STATE ===
+2025-12-07T11:20:44+00:00
+lsof: WARNING: can't stat() overlay file system /var/lib/docker/overlay2/c0473e365191322aeb6c4149c198cc674c658bb2b9ae6d67edd224cef1dd08c0/merged
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /var/lib/docker/overlay2/e7ff8fc25a022a8bc0952b19459ccaabfda177e9d113092d336f615f1f91edea/merged
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /var/lib/docker/overlay2/c954a62af1f5671dbc5a368506dd50c609480f12c93a90168b1cc0599698a7e7/merged
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /var/lib/docker/overlay2/a8e02fdde91c464ad69f9fd482cdc6102b119d028bcd3dd0e82ba2f1d7c45b31/merged
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /var/lib/docker/overlay2/bbfae92413c6ff25c1a8b1305c9066a69b4dba643b6564c5e37eb9354c8abcc4/merged
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /var/lib/docker/overlay2/b3be1c76178661d7d5635f254a984555fa6be544cc2d5f9f07bf8825aa8575f4/merged
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /var/lib/docker/overlay2/3722b00b7f75895ee053164c1d5149ec939e83791df479db192945e402014c30/merged
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /var/lib/docker/overlay2/354247e92bcae432a3516a10fbcb27a32f99f0555192fdc197cd04c15a0daf9b/merged
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /var/lib/docker/overlay2/2d9c573181336aac007598280927ae015adf9e3ae6ecb0140c8dd12dcab18a24/merged
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /var/lib/docker/overlay2/d6f85db5feb815416c926e18a2445a2567e843dbebea066e31186b05a43310b9/merged
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /var/lib/docker/overlay2/1f0691a951f0959492e861314b96e208524860b76c954ff33388623ed9d0a21e/merged
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /var/lib/docker/overlay2/a755db7b36d512830653cc5552a08e099ec8a64da8319abb1d6cabe68ed6a8b7/merged
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /var/lib/docker/overlay2/c2f13a9da1c2f83f0725fe315023a013cd69132152e12c3500a23a219ee77450/merged
+      Output information may be incomplete.
+lsof: WARNING: can't stat() nsfs file system /run/docker/netns/7189f1b6f60b
+      Output information may be incomplete.
+lsof: WARNING: can't stat() nsfs file system /run/docker/netns/891c8a344c15
+      Output information may be incomplete.
+lsof: WARNING: can't stat() nsfs file system /run/docker/netns/4d1f6fb431f8
+      Output information may be incomplete.
+lsof: WARNING: can't stat() nsfs file system /run/docker/netns/249f8a4484e6
+      Output information may be incomplete.
+lsof: WARNING: can't stat() nsfs file system /run/docker/netns/bae4cb8b6ace
+      Output information may be incomplete.
+lsof: WARNING: can't stat() nsfs file system /run/docker/netns/01716c428d42
+      Output information may be incomplete.
+lsof: WARNING: can't stat() nsfs file system /run/docker/netns/0fe7b3cdaad9
+      Output information may be incomplete.
+lsof: WARNING: can't stat() nsfs file system /run/docker/netns/61eb41c565e5
+      Output information may be incomplete.
+lsof: WARNING: can't stat() nsfs file system /run/docker/netns/c4c9c94d12f7
+      Output information may be incomplete.
+lsof: WARNING: can't stat() nsfs file system /run/docker/netns/6728d551e3f4
+      Output information may be incomplete.
+lsof: WARNING: can't stat() nsfs file system /run/docker/netns/ebe824100ea3
+      Output information may be incomplete.
+lsof: WARNING: can't stat() nsfs file system /run/docker/netns/110c86126d46
+      Output information may be incomplete.
+lsof: WARNING: can't stat() nsfs file system /run/docker/netns/8b9c78fba44a
+      Output information may be incomplete.
