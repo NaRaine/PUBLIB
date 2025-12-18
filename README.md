@@ -1,8 +1,9 @@
 # Software Developer/IT Consultant/ Inventor
 ## Patreon payment IBAN GB70 BARC 2089 1663 6171 06
-### Invented 3 patents filed US Patent Office
-1 Thermodynamic Computing: No. 63/928,409** (Filed December 1, 2025)
-2 Intelligent Multi-Tier Memory Management System: 63/930,052 (Filed: December 3, 2025
+### Invented 3 patents filed US Patent Office:
+1. Thermodynamic Computing: No. 63/928,409** (Filed December 1, 2025)
+ - Based on 1st mathermatical proof, rather than empirical - trumps all thermodynamic patents
+3. Intelligent Multi-Tier Memory Management System: 63/930,052 (Filed: December 3, 2025
  - Coverage: 63 comprehensive claims
 3. Data Integrity Monitoring and Automatic Repair System: 63/930,059 (Filed: December 3, 2025)
  - Coverage: 71 comprehensive claims
