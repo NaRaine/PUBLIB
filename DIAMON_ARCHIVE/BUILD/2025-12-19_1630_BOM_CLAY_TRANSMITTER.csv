@@ -1,0 +1,24 @@
+Designator,Quantity,Value,Description,Manufacturer,MPN,Supplier,Supplier PN,Package,Note
+U1,1,PAM8403,3W Class D Audio Amplifier,Diodes Inc.,PAM8403DR,LCSC,C52032,SOP-16,Stereo amplifier - use left channel only
+C1,1,100µF,Electrolytic Capacitor 10V,Panasonic,EEE-1AA101P,LCSC,C72476,Radial 5mm,Input power smoothing
+C2,1,100nF,Ceramic Capacitor 10V X7R,Samsung,CL21B104KBCNNNC,LCSC,C49678,0805,High-freq bypass
+C3,1,10nF,Ceramic Capacitor 50V X7R,Samsung,CL21B103KBANNNC,LCSC,C57112,0805,PWM input filter
+C4,1,220µF,Electrolytic Capacitor 10V,Panasonic,EEE-1AA221P,LCSC,C72482,Radial 6.3mm,Output DC blocking
+C5,1,220µF,Electrolytic Capacitor 10V,Panasonic,EEE-1AA221P,LCSC,C72482,Radial 6.3mm,Output DC blocking
+C6,1,10µF,Ceramic Capacitor 10V X5R,Samsung,CL21A106KOQNNNE,LCSC,C15850,0805,Power decoupling
+C7,1,100nF,Ceramic Capacitor 10V X7R,Samsung,CL21B104KBCNNNC,LCSC,C49678,0805,High-freq bypass
+C8,1,10µF,Electrolytic Capacitor 10V,Panasonic,EEE-1AA100P,LCSC,C72451,Radial 5mm,Optional: signal LED smoothing
+R1,1,10Ω,Resistor 0.25W 5%,Yageo,RC0805FR-0710RL,LCSC,C17415,0805,Power isolation
+R2,1,1kΩ,Resistor 0.125W 5%,Yageo,RC0805FR-071KL,LCSC,C17513,0805,Power LED current limit
+R3,1,1kΩ,Resistor 0.125W 5%,Yageo,RC0805FR-071KL,LCSC,C17513,0805,PWM input impedance
+R4,1,10kΩ,Resistor 0.125W 5%,Yageo,RC0805FR-0710KL,LCSC,C17414,0805,PWM pull-down
+R5,1,1kΩ,Resistor 0.125W 5%,Yageo,RC0805FR-071KL,LCSC,C17513,0805,Optional: signal LED current limit
+R6,1,10kΩ,Resistor 0.125W 5%,Yageo,RC0805FR-0710KL,LCSC,C17414,0805,Optional: discharge resistor
+LED1,1,Red 3mm,LED Red 3mm 2V 20mA,Everlight,333-2SURD/S530-A3,LCSC,C72038,THT 3mm,Power indicator - mount on top side
+LED2,1,Green 3mm,LED Green 3mm 2.2V 20mA,Everlight,333-2SUGD/S530-A3,LCSC,C72043,THT 3mm,Optional: signal indicator
+D1,1,1N4148,Fast Switching Diode 100V 200mA,ON Semi,1N4148,LCSC,C81598,DO-35,Optional: signal rectifier
+J1,1,Terminal 2P,Screw Terminal 2-pin 5.08mm,Ningbo Kangnex,WJ126V-5.08-2P,LCSC,C8465,THT,Transducer output connection
+J2,1,Terminal 2P,Screw Terminal 2-pin 5.08mm,Ningbo Kangnex,WJ126V-5.08-2P,LCSC,C8465,THT,Optional: external power input
+J3,1,Header 2x4P,Female Pin Header 2x4 2.54mm,Boom Precision Elec,2.54mm 2*4P,LCSC,C124413,THT 2.54mm,Connection to Orange Pi GPIO
+PCB,1,50x70mm,PCB 2-layer FR4 1.6mm green,PCBWay,CUSTOM,PCBWay,CUSTOM,Custom,Manufactured by PCBWay
+TRANSDUCER,1,40kHz 60W,Ultrasonic Transducer 40kHz,Generic,T40-16,eBay/AliExpress,SEARCH,Wired,SOURCE SEPARATELY - not for PCB assembly
